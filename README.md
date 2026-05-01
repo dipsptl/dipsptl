@@ -43,7 +43,7 @@ To build real-world Industrial AI systems that reduce machine failures and impro
 
 ## 📫 Connect with Me
 🔗 GitHub: https://github.com/DipsPtl  
-🔗 LinkedIn: https://www.linkedin.com/in/YOUR-LINK
+🔗 LinkedIn:  www.linkedin.com/in/dipal-patel-aysm  
 
 <!--
 **dipsptl/dipsptl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
