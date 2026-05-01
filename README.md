@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dips Patel
+ Hi, I'm Dipal Patel
 
 ⚙️ Mechanical Engineer with  9years of experience  
 🤖 Transitioning into AI / Machine Learning Engineer  
