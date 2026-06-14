@@ -26,13 +26,13 @@
 ## 🔥 Featured Projects
 
 ### ⚙️ Industrial Mechanical AI Assistant (RAG + LLM)
-👉 https://huggingface.co/spaces/DipsPtl/Industrial-Mech-AI-Assistant
+👉 https://huggingface.co/spaces/DipsPtl/EngineIQ
 
 ### 📊 Predictive Maintenance AI Dashboard
 👉 https://industrial-ai-assistant.streamlit.app
 
 ### 🌡️ Cooling Tower Gearbox AI System
-👉 https://gearbox-cooling-tower-ai-temperature-prediction.streamlit.app
+👉 https://Thermolytix-gearbox-cooling-tower-ai-temperature-prediction.streamlit.app
 
 ---
 
