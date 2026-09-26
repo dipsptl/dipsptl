@@ -25,7 +25,7 @@
 
 ## 🔥 Featured Projects
 
-### ⚙️ Industrial Mechanical AI Assistant (RAG + LLM)
+### ⚙️ EngineIQ (RAG + LLM)
 👉 https://huggingface.co/spaces/DipsPtl/EngineIQ
 
 ### 📊 Predictive Maintenance AI Dashboard
