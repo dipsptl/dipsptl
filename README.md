@@ -1,8 +1,11 @@
  Hi, I'm Dipal Patel
+ 
+⚙️ Senior Systems & AI Engineer with Deep   Mechanical Expertise
+🤖 Architecting High-Performance Retrieval (RAG) & Distributed Infrastructure
+🔧 Building Production-Grade Industrial AI Solutions for Mission-Critical Diagnostics
 
-⚙️ Mechanical Engineer with  9years of experience  
-🤖 Transitioning into AI / Machine Learning Engineer  
-🔧 Building Industrial AI solutions for predictive maintenance  
+
+
 
 ---
 
