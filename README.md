@@ -1,65 +1,89 @@
- Hi, I'm Dipal Patel
- 
-⚙️ Senior Systems & AI Engineer with Deep   Mechanical Expertise
-🤖 Architecting High-Performance Retrieval (RAG) & Distributed Infrastructure
+# Hi, I'm Dipal Patel 👋
+
+⚙️ Senior Systems & AI Engineer with Deep Mechanical Expertise 
+🤖 Architecting High-Performance Retrieval (RAG) & Distributed Infrastructure 
 🔧 Building Production-Grade Industrial AI Solutions for Mission-Critical Diagnostics
 
+---
 
+## 🔧 What I Build
 
+* 🤖 Industrial AI & predictive maintenance systems
+* 🧠 RAG-based AI assistants and LLM applications
+* 🌡️ Thermal intelligence and machine condition prediction
+* ⚙️ Machine diagnostics and engineering decision-support systems
+* 📊 Interactive AI monitoring dashboards
+* 🏭 AI solutions for real-world mechanical and industrial applications
 
 ---
 
-## 🚀 What I Do
-- Develop AI-powered industrial applications  
-- Build predictive maintenance systems using ML  
-- Create RAG-based AI assistants using LLMs  
-- Design interactive dashboards using Streamlit  
+## 🚀 Featured Projects
+
+| Project                                   | What it does                                                                                                              |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| ⚙️ **MechMate AI**                        | AI-powered industrial predictive maintenance workstation for machine monitoring, diagnostics and maintenance intelligence |
+| 🧠 **EngineIQ**                           | Predictive maintenance system for machine health monitoring and failure prediction                                        |
+| 🌡️ **THERMOLYTIX**                       | AI system for predicting cooling-tower gearbox temperature from operating conditions                                      |
+| 🔧 **Industrial Mechanical AI Assistant** | RAG-based AI assistant for industrial and mechanical engineering knowledge                                                |
+
+### MechMate AI
+
+AI-powered industrial predictive maintenance workstation combining intelligent machine monitoring, diagnostics and engineering decision support.
+
+### EngineIQ
+
+AI-powered machine intelligence system for predictive maintenance, failure prediction and machine health analysis.
+
+### THERMOLYTIX
+
+AI-powered gearbox thermal prediction system designed to understand and monitor operating temperature in cooling-tower gearboxes.
 
 ---
 
-## 🧠 Tech Stack
-- Python, Java script, HTML, CSS,SQL  
-- Machine Learning (Scikit-learn, RandomForest)  
-- LangChain, FAISS, RAG Pipeline  
-- Streamlit, Hugging Face Spaces  
-- Pandas, NumPy, Matplotlib  
+## 🧠 Tech I Use
+
+**AI / ML**
+
+Python · Scikit-learn · Random Forest · Regression · Classification · Anomaly Detection
+
+**Generative AI**
+
+LLMs · RAG · LangChain · FAISS · Hugging Face Embeddings
+
+**Data**
+
+Pandas · NumPy · SQL · Matplotlib
+
+**Development**
+
+Streamlit · JavaScript · HTML · CSS · Git · GitHub · Docker
 
 ---
 
-## 🔥 Featured Projects
+## 🏭 Engineering + AI
 
-### ⚙️ EngineIQ (RAG + LLM)
-👉 https://huggingface.co/spaces/DipsPtl/EngineIQ
+My engineering background helps me approach AI from the perspective of **real machines, real operating conditions and real engineering problems**.
 
-### 📊 Predictive Maintenance AI Dashboard
-👉 https://industrial-ai-assistant.streamlit.app
-
-### 🌡️ Cooling Tower Gearbox AI System
-👉 https://Thermolytix-gearbox-cooling-tower-ai-temperature-prediction.streamlit.app
+**Mechanical Engineering → Data → Machine Learning → Generative AI → Industrial Intelligence**
 
 ---
 
-## 🎯 Career Goal
-To build real-world Industrial AI systems that reduce machine failures and improve operational efficiency.
+## 🎯 Current Focus
+
+* Industrial AI
+* Predictive Maintenance
+* Machine Intelligence
+* RAG & LLM Applications
+* AI Agents
+* Digital Twins
+* Engineering AI Applications
 
 ---
 
-## 📫 Connect with Me
-🔗 GitHub: https://github.com/DipsPtl  
-🔗 LinkedIn:  www.linkedin.com/in/dipal-patel-aysm  
-🤗 HuggingFace: huggingface.co/DipsPtl
+## 📫 Connect
 
-<!--
-**dipsptl/dipsptl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GitHub: https://github.com/DipsPtl
 
-Here are some ideas to get you started:
+LinkedIn: https://www.linkedin.com/in/dipal-patel-aysm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hugging Face: https://huggingface.co/DipsPtl
