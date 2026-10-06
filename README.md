@@ -57,12 +57,13 @@ My engineering background helps me approach AI from the perspective of **real ma
 
 ## 🎯 Current Focus
 
-* Industrial AI
-* Predictive Maintenance
-* Machine Intelligence
-* RAG & LLM Applications
-* AI Agents
-* Digital Twins
+* Artificial Intelligence & Machine Learning
+* Generative AI & LLM Applications
+* RAG & Retrieval Systems
+* Predictive Maintenance & Industrial AI
+* AI Agents & Intelligent Systems
+* Machine Learning Model Development
+* Production-Grade AI/ML Applications
 * Engineering AI Applications
 
 ---
