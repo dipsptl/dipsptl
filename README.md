@@ -22,7 +22,7 @@
 | Project | What it does |
 | --- | --- |
 | ⚙️ [**MechMate AI**](https://machmateai.onrender.com/) | AI-powered industrial predictive maintenance workstation for machine monitoring, diagnostics and maintenance intelligence |
-| 🧠 [**EngineIQ**](https://huggingface.co/spaces/DipsPtl/EnginIQ) | MACHINE ANALYTICS and verify with 3D solid FEM |
+| 🧠 [**EngineIQ**](https://huggingface.co/spaces/DipsPtl/EnginIQ) | Machine ANALYTICS and verify with 3D solid FEM |
 | 🌡️ [**THERMOLYTIX**](https://thermolytix-gearbox-cooling-tower-ai-temperature-prediction.streamlit.app/) | AI system for predicting cooling-tower gearbox temperature from operating conditions |
 | 🔧 [**Industrial Mechanical AI Assistant**](https://industrial-ai-assistant.streamlit.app/) | RAG-based AI assistant for industrial and mechanical engineering knowledge |
 ---
